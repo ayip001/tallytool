@@ -1,0 +1,21 @@
+{ 
+    "GF": "GF",
+    "gf": "GF",
+    "MS": "MS",
+    "dinner": "food", 
+    "lunch": "food", 
+    "breakfast": "food",
+    "food": "food",
+    "pork": "groceries",
+    "groceries": "groceries",
+    "sweet potato": "snack",
+    "bread": "snack",
+    "snack": "snack",
+    "kai": "snack",
+    "car wash": "car",
+    "gas": "car",
+    "parking": "car",
+    "tunnel": "car",
+    "toll": "car",
+    "transportation": "public transportation"
+}
